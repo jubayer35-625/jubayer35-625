@@ -1,6 +1,6 @@
 
 
-<img style=”margin: 10px” src=”https://photos.app.goo.gl/8nqLk8rKAmHsHhv38" alt=”React” height=”50" />
+
 
 
 # 💻 Tech Stack:
