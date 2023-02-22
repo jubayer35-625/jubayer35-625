@@ -1,4 +1,4 @@
-<img  width="900" height="400" src="https://i.ibb.co/Y8gRccf/me.png" alt="me" border="0">
+<img  width="400" height="400" src="https://i.ibb.co/Y8gRccf/me.png" alt="me" border="0">
 
 
 
